@@ -46,5 +46,6 @@ Here are some web pages that you may need to refer to:
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
    -**Cody Sharp**
      - Yu-Gi-Oh! Trading Cards Dataset
-     - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
+      -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
+      - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
   
