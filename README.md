@@ -52,4 +52,15 @@ Here are some web pages that you may need to refer to:
         - https://www.kaggle.com/gregorut/videogamesales
         - I think this would be an interesting dataset since it details the sales in different regions of the world and can illustrate
           which games are most popular in these regions.
-  
+  - Brendan Carr
+    - Summer Olympic Medals (1976 – 2008)
+      - APPROVED PROJECT DATASET
+      - <https://www.kaggle.com/divyansh22/summer-olympics-medals>
+      - Click the download button underneath the header image to download a zip folder contain the dataset. The dataset is named Summer-         Olympic-medals-1976-to-2008.csv. 
+      - The categorical fields are City, Year, Sport, Discipline, Event, Athlete, Gender, Country_Code, Country, Event_Gender, and               Medal. I choose this dataset as my first choice even though it is not related to my major because it is interesting to see the           data for all the medals in the Summer Olympics from 1976 to 2008.
+      - There are no numerical fields in this dataset.
+    - World Happiness Report 
+      - <https://www.kaggle.com/unsdsn/world-happiness>
+      - Click the download button underneath the header image to download a zip folder containing the datasets. I was going to focus on         the 2019.csv dataset. 
+      - The categorical fields are Overall Rank, Country or Region, Score, GDP per Capita, Social Support, Healthy Life Expectancy,             Freedom to make life choices, Generosity, and Perceptions of Corruption. Each category from GDP per Capita to Perceptions of             Corruption has a number that contributes to each country’s happiness score which ranges from 0 – 10.
+      - There are no numerical fields in this dataset.
